@@ -45,7 +45,7 @@ export default function Home() {
 
    
       <div
-        className="w-[553px] h-[513px]"
+        className="w-[553px] h-[513px] rounded-t-[100px] "
         style={{
           backgroundImage: "url('/images/Rectangle 12.png')",
           backgroundSize: "cover",
