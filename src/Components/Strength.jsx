@@ -1,7 +1,9 @@
 import React from "react";
+import Container from "../shared/Container";
 
 export default function Strengths() {
   return (
+   
     <div className="w-[1440px] h-[279px] flex justify-center items-center">
       
       <div className="w-[1312px] h-[279px] bg-[rgb(246,246,246)] flex justify-center items-center">
@@ -58,5 +60,6 @@ export default function Strengths() {
         </div>
       </div>
     </div>
+   
   );
 }

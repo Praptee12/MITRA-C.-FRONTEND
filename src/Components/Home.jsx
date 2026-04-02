@@ -1,10 +1,11 @@
-
+import Container from "../shared/Container";
 
 
 import React from "react";
 
 export default function Home() {
   return (
+    
     <div
       className="w-[1440px] h-[613px] flex justify-center items-center gap-[127px] py-[50px]"
     >

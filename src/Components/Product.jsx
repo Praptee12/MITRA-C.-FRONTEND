@@ -1,7 +1,9 @@
 import React from "react";
+import Container from "../shared/Container";
 
 const ProductCard = ({ title, imagePath }) => {
   return (
+  
     <div className="w-[429px] h-[595px] flex flex-col items-center gap-[24px]">
      
       <img src={imagePath} alt="Product Image" className="w-[429px] h-[419px]" />
@@ -28,6 +30,7 @@ const ProductCard = ({ title, imagePath }) => {
     </div>
   );
 };
+
 
 export default function Products() {
   return (

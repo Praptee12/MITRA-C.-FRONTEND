@@ -1,3 +1,4 @@
+import Container from "../shared/Container";
 import React from "react";
 
 const Frame3 = () => {
