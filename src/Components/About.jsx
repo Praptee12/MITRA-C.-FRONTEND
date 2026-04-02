@@ -9,7 +9,7 @@ export default function About() {
         
     
         <div
-          className="w-[553px] h-[507px] bg-[rgb(217,217,217)]"
+          className="w-[553px] h-[507px]"
           style={{
             backgroundImage: "url('/images/Rectangle 17.png')",
             backgroundSize: "cover",
