@@ -34,7 +34,7 @@ const ProductCard = ({ title, imagePath }) => {
 
 export default function Products() {
   return (
-    <div className="w-full h-[1532px] flex flex-col items-center py-[60px] gap-[77px]">
+    <div className="w-[1440px] h-[1532px] flex flex-col items-center py-[60px] gap-[77px]">
       
    
       <h2 className="text-[48px] leading-[68px] font-bold font-[Inter] text-black text-center">

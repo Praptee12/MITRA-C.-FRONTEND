@@ -9,7 +9,7 @@ import Frame3 from "../Components/Frame3";
 
 const Landing = () => {
   return (
-    <div className="flex flex-col w-full items-start bg-white">
+    <div className="flex flex-col w-[1440px] items-start bg-white">
       <Navbar />
       <Home />
       <Strength />

@@ -3,7 +3,7 @@ import Container from "../shared/Container";
 
 export default function Benefits() {
   return (
-    <div className="w-full h-[814px] bg-[rgb(246,246,246)] flex justify-center items-center">
+    <div className="w-[1440px] h-[814px] bg-[rgb(246,246,246)] flex justify-center items-center">
       
      
       <div className="w-[1312px] flex flex-row justify-between items-center">
